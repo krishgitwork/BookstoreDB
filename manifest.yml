@@ -1,0 +1,7 @@
+---
+applications:
+  - name: springboot
+    memory: 1024M
+    instances: 2
+    services:
+      - mysql
